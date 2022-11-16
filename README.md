@@ -1,2 +1,3 @@
-# github-how-to-doc-presentation
-GitHub slides demonstration on "How, What and Why to Document" 
+# What, How and Why do we document our code
+
+This Repository is a demo to on the usage of [RevealJS](https://revealjs.com) for GitHub presentations.
