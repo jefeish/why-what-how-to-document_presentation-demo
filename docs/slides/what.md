@@ -20,7 +20,7 @@ Keep in mind that some of these categories belong to specialized people/groups. 
 
 <br>
 
-Check out each category ...
+'Deep dive' into each category ...
 <span style='font-size:50px;'>&#128071;</span>
 
 Note:
