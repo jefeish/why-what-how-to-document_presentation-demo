@@ -11,7 +11,7 @@ Here is an overview of some general documentation categories.
 </div>
 <br>
 <div style="font-size: 36px; text-align: center; width: 60%; margin: 0% 20% 0% 20%;">
-<img height="60%" src="images/docs-categories.png">
+<img src="images/docs-categories.png">
 </div>
 <br>
 <div style="font-size: 36px; text-align: justify; width: 60%; margin: 0% 20% 0% 20%;">
