@@ -6,19 +6,19 @@
 
 <span style='font-size:40px; padding: 0px 20px 0px 0px; color: #79b8ff;'>&#9654; Security</span>
 
-  Writing docs to explain certain project or code aspects can help your own unerstanding of functionality
+  Document security requirements and policies. Set standards for contributors and guidelines for violations/breaches
 
 <br>
 
 <span style='font-size:40px; padding: 0px 20px 0px 0px; color: #79b8ff;'>&#9654; Code of Conduct</span>
 
-  Anything you document can help others to collaborate
+  Document how you expect collaborators to collaborate (manners matter)
 
 <br>
 
 <span style='font-size:40px; padding: 0px 20px 0px 0px; color: #79b8ff;'>&#9654; Contributing</span>
 
-  Documenting your own work can help you to remember what its for and why you did things the way you did.
+  Document how collaborators can participate on the project, contribute code, report a bug, request a feature, etc.
 
 </div>
 

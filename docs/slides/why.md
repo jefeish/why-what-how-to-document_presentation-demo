@@ -6,7 +6,7 @@
 
 <span style='font-size:40px; padding: 0px 20px 0px 0px; color: #79b8ff;'>&#9654; To Explain</span>
 
-  Writing docs to explain certain project or code aspects can help your own unerstanding of functionality
+  Writing docs to explain certain project or code aspects can help to understand purpose & functionality
 
 <br>
 

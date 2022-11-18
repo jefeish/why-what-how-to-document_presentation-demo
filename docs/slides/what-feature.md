@@ -6,19 +6,19 @@
 
 <span style='font-size:40px; padding: 0px 20px 0px 0px; color: #79b8ff;'>&#9654; Changelog</span>
 
-  Writing docs to explain certain project or code aspects can help your own unerstanding of functionality
+  Document your changes (Release), that users know what to expect.
 
 <br>
 
 <span style='font-size:40px; padding: 0px 20px 0px 0px; color: #79b8ff;'>&#9654; Enablement</span>
 
-  Anything you document can help others to collaborate
+  Document how to 'enable' new features (see changelog), especially for non GA features
 
 <br>
 
 <span style='font-size:40px; padding: 0px 20px 0px 0px; color: #79b8ff;'>&#9654; Usage</span>
 
-  Documenting your own work can help you to remember what its for and why you did things the way you did.
+  Document your App for the user, explain the functionality.
 
 </div>
 

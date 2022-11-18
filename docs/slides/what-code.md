@@ -1,28 +1,26 @@
 ## Documenting Code
-
-<div style="font-size: 36px; text-align: justify; width: 60%; margin: 0% 20% 0% 20%;">
-
 <br>
+<div style="font-size: 36px; text-align: justify; width: 60%; margin: 0% 20% 0% 20%;">
 
 <span style='font-size:40px; padding: 0px 20px 0px 0px; color: #79b8ff;'>&#9654; Inline</span>
 
-  Writing docs to explain certain project or code aspects can help your own unerstanding of functionality
+  Document the code, with comments and annotations. Consider Doc-generator tools based on annotation.
 
 <br>
 
 <span style='font-size:40px; padding: 0px 20px 0px 0px; color: #79b8ff;'>&#9654; API</span>
 
-  Anything you document can help others to collaborate
+  Document the Interface of your App, intenal or external. Help people to integrate with your App.
 
 <br>
 
 <span style='font-size:40px; padding: 0px 20px 0px 0px; color: #79b8ff;'>&#9654; Tests</span>
 
-  Documenting your own work can help you to remember what its for and why you did things the way you did.
+  Document your tests, so that collaborators can understand sample behavior.
 
 </div>
 
-<br><br>
+<br>
 Check out more ? ...
 <span style='font-size:50px;'>&#128071;</span>
 

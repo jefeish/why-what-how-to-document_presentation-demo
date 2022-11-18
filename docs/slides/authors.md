@@ -8,6 +8,7 @@
 <div style="display: grid; grid-template-columns: auto auto; margin-left: 200px; padding: 10px;">
 
 <div style="padding: 20px; font-size: 32px; text-align: center;">
+
 <div style="float: left; height: 150px; margin-right: 50px;">
 <img src="images/github-avatar.png" />
 </div>
@@ -16,24 +17,13 @@ Mona Github<br>
 <div style="font-size: 24px;">
 Senior Services Delivery Engineer<br>
 @octa
-</div>
 </div>
 </div>
 
-<div style="padding: 20px; font-size: 32px; text-align: center;">
-<div style="float: left; height: 150px; margin-right: 50px;">
-<img src="images/github-avatar.png" />
-</div>
-<div style="text-align: left; padding: 30px 0px 0px 40px;">
-Mona Github<br>
-<div style="font-size: 24px;">
-Senior Services Delivery Engineer<br>
-@octa
-</div>
-</div>
 </div>
 
 <div style="padding: 20px; font-size: 32px; text-align: center;">
+
 <div style="float: left; height: 150px; margin-right: 50px;">
 <img src="images/github-avatar.png" />
 </div>
@@ -42,11 +32,13 @@ Mona Github<br>
 <div style="font-size: 24px;">
 Senior Services Delivery Engineer<br>
 @octa
-</div>
 </div>
 </div>
 
+</div>
+
 <div style="padding: 20px; font-size: 32px; text-align: center;">
+
 <div style="float: left; height: 150px; margin-right: 50px;">
 <img src="images/github-avatar.png" />
 </div>
@@ -57,6 +49,22 @@ Senior Services Delivery Engineer<br>
 @octa
 </div>
 </div>
+
+</div>
+
+<div style="padding: 20px; font-size: 32px; text-align: center;">
+
+<div style="float: left; height: 150px; margin-right: 50px;">
+<img src="images/github-avatar.png" />
+</div>
+<div style="text-align: left; padding: 30px 0px 0px 40px;">
+Mona Github<br>
+<div style="font-size: 24px;">
+Senior Services Delivery Engineer<br>
+@octa
+</div>
+</div>
+
 </div>
 
 </div>
