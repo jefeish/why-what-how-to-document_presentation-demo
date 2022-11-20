@@ -7,7 +7,7 @@
 <div style="height:80vh; ; border: 0px dashed blue;">
 <div style="font-size: 36px; text-align: justify; width: 60%; margin: 0% 20% 0% 20%;">
 <a href="https://docs.github.com/en/actions" target="_blank">GitHub Actions</a> is a powerful tool to automate parts of your documentation.<br><br>
-For expample run <a href="https://en.wikipedia.org/wiki/Javadoc" target="_blank">Javadocs</a>(a documentation generator) as a PR check item.<br><br>
+For expample run <a href="https://en.wikipedia.org/wiki/Javadoc" target="_blank">Javadocs</a>(a documentation generator) as a PR check item via GitHub Actions.<br><br>
 For more Actions, check out the Actions <a href="https://github.com/marketplace?category=&query=&type=actions&verification=" target="_blank">Marketplace</a>
 </div>
 </div>
