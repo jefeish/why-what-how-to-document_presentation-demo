@@ -4,7 +4,7 @@
 <div style="height:10vh; border: 1px dashed blue;">
 <h2>Markdown</h2>
 </div>
-<div style="height:80vh; text-align: bottom; border: 1px dashed blue;">
+<div style="height:75vh; text-align: bottom; border: 1px dashed blue;">
 <div style="font-size: 36px; text-align: justify; width: 60%; margin: 0% 20% 0% 20%;">
 
 GitHub supports the use of <a href="https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/" target="_blank">Mermaid</a> inside your Markdown documentation, to provide advanced diagrams.

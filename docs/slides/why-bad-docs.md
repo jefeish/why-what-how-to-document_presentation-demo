@@ -5,7 +5,7 @@
 <h2>Bad Documentation</h2>
 
 </div>
-<div style="height:80vh; ; border: 1px dashed blue;">
+<div style="height:75vh; ; border: 1px dashed blue;">
 
 <div style="font-size: 36px; text-align: center; width: 60%; margin: 0% 20% 0% 20%;">
 

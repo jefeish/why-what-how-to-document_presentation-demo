@@ -4,7 +4,7 @@
 <div style="height:10vh; color: #42A5F5; border: 1px dashed blue;">
 <h2>GitHub Template</h2>
 </div>
-<div style="height:80vh; ; border: 1px dashed blue;">
+<div style="height:75vh; ; border: 1px dashed blue;">
 <div style="font-size: 36px; text-align: justify; width: 60%; margin: 0% 20% 0% 20%;">
 
 <a href="https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates" target="_blank">Templates</a> help to create standards for your project. <br><br>

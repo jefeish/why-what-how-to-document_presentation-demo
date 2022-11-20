@@ -3,7 +3,7 @@
 </div>
 <div style="height:10vh; color: #42A5F5; border: 1px dashed blue;">
 </div>
-<div style="height:80vh; ; border: 1px dashed blue;">
+<div style="height:75vh; ; border: 1px dashed blue;">
 
 <div style="font-size: 96px; text-align: center; color: #42A5F5; width: 60%; margin: 0% 20% 0% 20%;">
 <img height="400px" src="images/qa.png"><br>

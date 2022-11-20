@@ -4,7 +4,7 @@
 <div style="height:10vh; color: #42A5F5; border: 1px dashed blue;">
 <h2>Why do we document ?</h2>
 </div>
-<div style="height:80vh; ; border: 1px dashed blue;">
+<div style="height:75vh; ; border: 1px dashed blue;">
 <div style="font-size: 36px; text-align: justify; width: 60%; margin: 0% 20% 0% 20%;">
 
 <span style='font-size:40px; padding: 0px 20px 0px 0px; color: #79b8ff;'>&#9654; To Explain</span>

@@ -4,7 +4,7 @@
 <div style="height:10vh; color: #42A5F5; border: 1px dashed blue;">
 <h2>What do we document ?</h2>
 </div>
-<div style="height:80vh; ; border: 1px dashed blue;">
+<div style="height:75vh; ; border: 1px dashed blue;">
 <div style="font-size: 36px; text-align: justify; width: 60%; margin: 0% 20% 0% 20%;">
 Everything can be documentated! Every commit comment, PR comment, is considered part of your documentation.
 

@@ -4,7 +4,7 @@
 <div style="height:10vh; color: #42A5F5; border: 1px dashed blue;">
 <h2>Good Documentation</h2>
 </div>
-<div style="height:80vh; ; border: 1px dashed blue;">
+<div style="height:75vh; ; border: 1px dashed blue;">
 <div style="margin-left: 15%;">
 <div style="text-align: justify; font-size: 36px; float: left; width: 40%; padding: 10px 100px 10px 50px;">
 

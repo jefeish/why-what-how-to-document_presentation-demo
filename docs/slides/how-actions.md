@@ -4,7 +4,7 @@
 <div style="height:10vh; color: #42A5F5; border: 1px dashed blue;">
 <h2>GitHub Actions</h2>
 </div>
-<div style="height:80vh; ; border: 1px dashed blue;">
+<div style="height:75vh; ; border: 1px dashed blue;">
 <div style="font-size: 36px; text-align: justify; width: 60%; margin: 0% 20% 0% 20%;">
 <a href="https://docs.github.com/en/actions" target="_blank">GitHub Actions</a> is a powerful tool to automate parts of your documentation.<br><br>
 For expample run <a href="https://en.wikipedia.org/wiki/Javadoc" target="_blank">Javadocs</a>(a documentation generator) as a PR check item via GitHub Actions.<br><br>
