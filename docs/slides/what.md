@@ -17,13 +17,18 @@ Here is an overview of some general documentation categories.
 <br>
 <div style="font-size: 36px; text-align: justify; width: 60%; margin: 0% 20% 0% 20%;">
 Some of these categories belong to specialized people/groups. Creating and maintaining these should be supported via collaboration & automation, such as GitHub Actions/Apps
+
+<div style="font-size: 36px; color: #42A5F5; text-align: center;">
+<br>
+'Deep dive' into each category ...
+<span style='font-size:50px;'>&#128071;</span>
+</div>
 </div>
 
 </div>
 
 <div style="height:10vh; font-size: 36px; color: #42A5F5; text-align: center; border: 0px dashed blue;">
-'Deep dive' into each category ...
-<span style='font-size:50px;'>&#128071;</span>
+
 </div>
 
 Note:

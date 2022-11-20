@@ -43,9 +43,13 @@ Use Issue <a href="https://docs.github.com/en/communities/using-templates-to-enc
 
 </div>
 
+<div style="font-size: 36px; color: #42A5F5; text-align: center;">
+'Deep dive' into each category ...
+<span style='font-size:50px;'>&#128071;</span>
+</div>
+
 </div>
 
 <div style="height:10vh; font-size: 36px; color: #42A5F5; text-align: center; border: 0px dashed blue;">
-'Deep dive' into each category ...
-<span style='font-size:50px;'>&#128071;</span>
+
 </div>
