@@ -2,7 +2,7 @@
 <img height="40px" src="images/octo-white.png">&nbsp;&nbsp;&nbsp;<p>GitHub Professional Services - Project Documentation</p>
 </div>
 <div style="height:10vh; color: #42A5F5; border: 0px dashed blue;">
-<h2>Documenting Feature</h2>
+<h2>Documenting Features</h2>
 </div>
 <div style="height:75vh; ; border: 0px dashed blue;">
 <div style="font-size: 36px; text-align: justify; width: 60%; margin: 0% 20% 0% 20%;">
