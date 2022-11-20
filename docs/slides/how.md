@@ -36,7 +36,7 @@ Use <a href="https://docs.github.com/en/actions/" target="_blank">GitHub Actions
 <div style="text-align: left;">
 <h3>GitHub Templates</h3>
 <div style="padding-right:100px; font-size: 36px;">
-Issue <a href="https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates" target="_blank">Template</a>, Pull Request <a href="https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates" target="_blank">Template</a>
+Use Issue <a href="https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates" target="_blank">Template</a>, Pull Request <a href="https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates" target="_blank">Template</a>, to create documentation standards.
 </div>
 <br><br>
 </div>
