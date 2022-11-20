@@ -1,10 +1,10 @@
-<div style="height:10vh; display: flex; font-size: 32px; color: #42A5F5; text-align: left; border: 0px dashed blue;">
+<div style="height:10vh; display: flex; font-size: 32px; color: #42A5F5; text-align: left; border: 1px dashed blue;">
 <img height="40px" src="images/octo-white.png">&nbsp;&nbsp;&nbsp;<p>GitHub Professional Services - Project Documentation</p>
 </div>
-<div style="height:10vh; text-align: bottom; border: 0px dashed blue;">
+<div style="height:10vh; text-align: bottom; border: 1px dashed blue;">
 <h2>How Do We Document</h2>
 </div>
-<div style="height:80vh; border: 0px dashed blue;"">
+<div style="height:80vh; border: 1px dashed blue;"">
 <br><br>
 <div style="text-align: center; display: grid; grid-template-columns: auto auto; width:80%; margin-left: 15%; padding: 10px;">
 
@@ -45,7 +45,7 @@ Issue <a href="https://docs.github.com/en/communities/using-templates-to-encoura
 
 </div>
 
-<div style="height:10vh; font-size: 36px; color: #42A5F5; text-align: center; border: 0px dashed blue;">
+<div style="height:10vh; font-size: 36px; color: #42A5F5; text-align: center; border: 1px dashed blue;">
 'Deep dive' into each category ...
 <span style='font-size:50px;'>&#128071;</span>
 </div>

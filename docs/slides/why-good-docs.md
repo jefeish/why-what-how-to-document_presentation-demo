@@ -1,10 +1,10 @@
-<div style="height:10vh; display: flex; font-size: 32px; color: #42A5F5; text-align: left; border: 0px dashed blue;">
+<div style="height:10vh; display: flex; font-size: 32px; color: #42A5F5; text-align: left; border: 1px dashed blue;">
 <img height="40px" src="images/octo-white.png">&nbsp;&nbsp;&nbsp;<p>GitHub Professional Services - Project Documentation</p>
 </div>
-<div style="height:10vh; color: #42A5F5; border: 0px dashed blue;">
+<div style="height:10vh; color: #42A5F5; border: 1px dashed blue;">
 <h2>Good Documentation</h2>
 </div>
-<div style="height:80vh; ; border: 0px dashed blue;">
+<div style="height:80vh; ; border: 1px dashed blue;">
 <div style="margin-left: 15%;">
 <div style="text-align: justify; font-size: 36px; float: left; width: 40%; padding: 10px 100px 10px 50px;">
 
@@ -37,7 +37,7 @@
 
 </div>
 
-<div style="height:10vh; font-size: 36px; text-align: left; border: 0px dashed blue;">
+<div style="height:10vh; font-size: 36px; text-align: left; border: 1px dashed blue;">
 </div>
 
 <!-- Add some speaker notes -->
