@@ -55,6 +55,6 @@ npm start
 [14:09:17] Running server
 ```
 
-<details>
+</details>
 
 ---
