@@ -1,10 +1,10 @@
-<div style="height:10vh; display: flex; font-size: 32px; color: #42A5F5; text-align: left; border: 1px dashed blue;">
+<div style="height:10vh; display: flex; font-size: 32px; color: #42A5F5; text-align: left; border: 0px dashed blue;">
 <img height="40px" src="images/octo-white.png">&nbsp;&nbsp;&nbsp;<p>GitHub Professional Services - Project Documentation</p>
 </div>
-<div style="height:10vh; border: 1px dashed blue;">
+<div style="height:10vh; border: 0px dashed blue;">
 <h2>Author(s)</h2>
 </div>
-<div style="height:90vh; border: 1px dashed blue;">
+<div style="height:90vh; border: 0px dashed blue;">
 
 <div style="display: grid; grid-template-columns: auto auto; margin-left: 200px; padding: 10px;">
 
