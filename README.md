@@ -30,6 +30,8 @@ This Repository is a demo on the usage of [RevealJS](https://revealjs.com) for G
 
 ![speaker-notes](docs/images/speaker-notes.png)
 
+---
+
 ## Local Presentation Development
 
 ### Run the presentation locally
@@ -56,5 +58,7 @@ npm start
 ```
 
 </details>
+
+### Open [http://localhost:8000](http://localhost:8000)
 
 ---
