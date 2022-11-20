@@ -4,7 +4,7 @@ This Repository is a demo on the usage of [RevealJS](https://revealjs.com) for G
 
 >NOTE: The **focus here is NOT the presentation content** but rather the use of RevealJS in GitHub-Pages.
 
-To see the "live" demo open the [Pages](https://jefeish.github.io/what-why-how-to-document-presentation-demo/)
+To see the "live" demo open the [Pages](https://jefeish.github.io/why-what-how-to-document_presentation-demo/)
 
 ## Presentation - Preview
 
