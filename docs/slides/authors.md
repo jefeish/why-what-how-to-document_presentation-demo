@@ -1,10 +1,11 @@
-<div style="justify-content: top; align-items: left; display: flex; text-align: left; font-size: 32px;">
+<div style="height:10vh; display: flex; font-size: 32px; color: #42A5F5; text-align: left; border: 0px dashed blue;">
 <img height="40px" src="images/octo-white.png">&nbsp;&nbsp;&nbsp;<p>GitHub Professional Services - Project Documentation</p>
 </div>
-<br><br><br>
+<div style="height:10vh; border: 0px dashed blue;">
 <h2>Author(s)</h2>
+</div>
+<div style="height:90vh; border: 0px dashed blue;">
 
-<br>
 <div style="display: grid; grid-template-columns: auto auto; margin-left: 200px; padding: 10px;">
 
 <div style="padding: 20px; font-size: 32px; text-align: center;">
@@ -68,5 +69,4 @@ Senior Services Delivery Engineer<br>
 </div>
 
 </div>
-
-<br><br><br><br><br><br>
+</div>

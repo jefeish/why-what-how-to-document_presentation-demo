@@ -1,24 +1,23 @@
-<br>
-
-## Markdown
-
-<br>
-
+<div style="height:10vh; display: flex; font-size: 32px; color: #42A5F5; text-align: left; border: 0px dashed blue;">
+<img height="40px" src="images/octo-white.png">&nbsp;&nbsp;&nbsp;<p>GitHub Professional Services - Project Documentation</p>
+</div>
+<div style="height:10vh; border: 0px dashed blue;">
+<h2>Markdown</h2>
+</div>
+<div style="height:80vh; text-align: bottom; border: 0px dashed blue;">
 <div style="font-size: 36px; text-align: justify; width: 60%; margin: 0% 20% 0% 20%;">
-Everything can be documentated. Every commit comment, PR comment, is considered part of your documentation.
 
-Here is an overview of some general documentation categories.
-</div>
-<br>
-<div style="font-size: 36px; text-align: center; width: 60%; margin: 0% 20% 0% 20%;">
-<img height="60%" src="images/gh-pages-sample.png">
-</div>
-<br>
-<div style="font-size: 36px; text-align: justify; width: 60%; margin: 0% 20% 0% 20%;">
-Keep in mind that some of these categories belong to specialized people/groups. Creating and maintaining these should be supported via collaboration & automation, such as GitHub Actions/Apps
+GitHub supports the use of <a href="https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/" target="_blank">Mermaid</a> inside your Markdown documentation, to provide advanced diagrams.
+
+<div style="text-align: center;">
+<img src="images/mermaid.png">
 </div>
 
-<br>
+</div>
+</div>
+<div style="height:10vh; font-size: 36px; color: #42A5F5; text-align: center; border: 0px dashed blue;">
+Check out more ?...
+<span style='font-size:50px;'>&#128071;</span>
+</div>
 
 Note:
-

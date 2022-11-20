@@ -1,5 +1,11 @@
-<div style="justify-content: top; align-items: left; display: flex; text-align: left; font-size: 32px;">
+<div style="height:10vh; display: flex; font-size: 32px; color: #42A5F5; text-align: left; border: 0px dashed blue;">
 <img height="40px" src="images/octo-white.png">&nbsp;&nbsp;&nbsp;<p>GitHub Professional Services - Project Documentation</p>
+</div>
+<div style="height:10vh; display: flex; font-size: 32px; text-align: left; border: 0px dashed blue;">
+</div>
+<div style="height:80vh; ; border: 0px dashed blue;">
+<div style="justify-content: top; align-items: left; display: flex; text-align: left; font-size: 32px;">
+
 </div>
 
 <br><br>
@@ -9,12 +15,9 @@
 
 #### The Why, What and How of Documenting your Projects
 
+</div>
 
-
-<br><br><br><br><br><br>
-
-<div style="display: flex; align-items: center; justify-content: center">
-
+<div style="height:10vh; font-size: 36px; color: #42A5F5; text-align: center; border: 0px dashed blue;">
 See the author(s) ...
 <span style='font-size:50px;'>&#128071;</span>
 

@@ -2,22 +2,16 @@
 <img height="40px" src="images/octo-white.png">&nbsp;&nbsp;&nbsp;<p>GitHub Professional Services - Project Documentation</p>
 </div>
 <div style="height:10vh; color: #42A5F5; border: 0px dashed blue;">
-<h2>Bad Documentation</h2>
-
 </div>
 <div style="height:80vh; ; border: 0px dashed blue;">
 
-<div style="font-size: 36px; text-align: center; width: 60%; margin: 0% 20% 0% 20%;">
-
-...fails to *deliver* on some or all of these items <br><br>
+<div style="font-size: 96px; text-align: center; color: #42A5F5; width: 60%; margin: 0% 20% 0% 20%;">
+<img height="400px" src="images/qa.png"><br>
+QA
 </div>
 
-<img width="20%" src="images/sad-octocat.png">
-
+</div>
+<div style="height:10vh; color: #42A5F5; border: 0px dashed blue;">
 </div>
 
-<div style="height:10vh; font-size: 36px; text-align: left; border: 0px dashed blue;">
-</div>
-
-<!-- Add some speaker notes -->
 Note:
