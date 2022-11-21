@@ -5,25 +5,26 @@
 <h2>Why do we document ?</h2>
 </div>
 <div style="height:75vh; ; border: 0px dashed blue;">
-<div style="font-size: 36px; text-align: justify; width: 60%; margin: 0% 20% 0% 20%;">
+<div class="fragment" style="font-size: 36px; text-align: justify; width: 60%; margin: 0% 20% 0% 20%;">
 
-<span style='font-size:40px; padding: 0px 20px 0px 0px; color: #79b8ff;'>&#9654; To Explain</span>
+<span style='font-size:40px; color: #79b8ff;'>&#9654; To Explain </span>
 
-Writing docs to explain certain project or code aspects can help to understand purpose & functionality
-
-<br>
-
-<span style='font-size:40px; padding: 0px 20px 0px 0px; color: #79b8ff;'>&#9654; To Share</span>
-
-Anything you document can help others to collaborate
-
-<br>
-
-<span style='font-size:40px; padding: 0px 20px 0px 0px; color: #79b8ff;'>&#9654; To Remember</span>
-
-Documenting your work can help you to remember what its for and why you did things the way you did.
-
+Writing docs to explain certain project or code aspects can help to understand purpose & functionality<br><br>
 </div>
+
+<div class="fragment" style="font-size: 36px; text-align: justify; width: 60%; margin: 0% 20% 0% 20%;">
+
+<span style='font-size:40px; color: #79b8ff;'>&#9654; To Share</span>
+
+Anything you document can help others to collaborate<br><br>
+</div>
+
+<div class="fragment" style="font-size: 36px; text-align: justify; width: 60%; margin: 0% 20% 0% 20%;">
+<span style='font-size:40px; color: #79b8ff;'>&#9654; To Remember</span>
+
+Documenting your work can help you to remember what its for and why you did things the way you did.<br><br>
+</div>
+
 </div>
 
 <div style="height:10vh; font-size: 36px; color: #42A5F5; text-align: left; border: 0px dashed blue;">
