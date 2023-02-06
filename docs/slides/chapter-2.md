@@ -8,10 +8,9 @@
 
 </div>
 
-<h2 style="color: #2088ff;">Documentation</h2>
 <img style="height: 200px;" src="images/chapter.png">
 
-<h2 style="color: #2088ff;"> The <span style="color: white;">'WHAT'</span> ...</h2>
+<h2 style="color: #2088ff;"><span style="color: white;">'WHAT'</span> do we Document ...</h2>
 
 </div>
 
