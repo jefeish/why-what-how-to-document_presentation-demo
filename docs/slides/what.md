@@ -6,7 +6,7 @@
 </div>
 <div style="height:75vh; ; border: 0px dashed blue;">
 <div style="font-size: 36px; text-align: justify; width: 60%; margin: 0% 20% 0% 20%;">
-Everything can be documentated! Every commit comment, PR comment, is considered part of your documentation.
+Everything can be documented! Every commit comment, PR comment, is considered part of your documentation.
 
 Here is an overview of some general documentation categories.
 </div>
